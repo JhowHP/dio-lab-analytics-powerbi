@@ -1,3 +1,4 @@
-# power_bi_analyst
+# Data Analytics
 
-Repositório relacionado a formação de Power BI Analyst
+Repositório relacionado ao bootcamp da Sysvision - Data Analytics com Power BI na plataforma DIO.
+Neste bootcamp aborda áreas que um analista de dados tem no seu dia a dia, dominando ferramentas e técnicas como power BI, DAX, ETL, modelagem de dados iteligentes e IA.
